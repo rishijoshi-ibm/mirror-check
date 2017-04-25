@@ -1,0 +1,1 @@
+n case JIRA users are still being consistently logged out, you may need to change the context path if you are using multiple Atlassian applications on the same server. For instructions, see this Knowledge base article.
